@@ -1,0 +1,20 @@
+
+.book-requests-container{
+    display: flex;
+}
+
+.book-img{
+    height: 200px;
+    width: 250px;
+}
+.request-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+
+.request-card h4{
+    font-family: "Roboto";
+}

@@ -1,0 +1,40 @@
+.vendors-header{
+    text-align: left;
+}
+.vendor-card{
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.25);
+    margin: 20px;
+    width: 300px;
+    padding: 20px;
+}
+
+.profile{
+    display: flex;
+}
+.rating{
+    display: flex;
+    flex-direction: row;
+}
+.show-more-btn{
+    text-decoration: underline;
+    color: blue;
+    background: none;
+    border:none;
+    margin-top: 28px;
+    margin-left: 8px;
+}
+.feature-vendors{
+    display: flex;
+}
+
+h4{
+margin-left: 8px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 24.51px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}

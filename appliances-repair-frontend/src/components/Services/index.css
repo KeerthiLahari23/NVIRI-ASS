@@ -1,0 +1,27 @@
+
+.all-services-container{
+    
+    padding-left: 20px;
+}
+.services{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.item{
+    width:350px;
+    margin: 55px;
+    text-align: left;
+}
+.service-name{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+.service-header{
+    text-align: left;
+}
+.service-desc{
+    padding-left: 50px;
+    text-align: center;
+}
